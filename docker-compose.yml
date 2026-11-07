@@ -1,9 +1,0 @@
-services:
-  project5:
-    build: .
-    volumes:
-      - ./data:/workspace/data
-      - ./checkpoints:/workspace/checkpoints
-      - ./results:/workspace/results
-      - ./.hf_cache:/root/.cache/huggingface
-    command: ["python", "code/main.py", "--task", "all", "--download"]
