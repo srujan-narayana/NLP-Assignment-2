@@ -1,0 +1,10 @@
+.git
+.venv
+venv
+__pycache__
+.test_tmp
+.hf_cache
+data
+checkpoints
+results
+*.pyc

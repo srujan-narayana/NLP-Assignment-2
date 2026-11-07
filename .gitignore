@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.test_tmp/
+.venv/
+venv/
+data/
+results/
+checkpoints/
+*.pt
+*.npy
+*.npz
+*.pkl
+*.log
