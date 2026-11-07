@@ -1,0 +1,4 @@
+Metric,Task 1: PPMI + SVD (Static),Task 3: BERT-Derived Static,Delta (Task 3 - Task 1)
+WordSim-353 (Spearman ρ),0.1559,0.5155,+0.3596
+Google Analogy Accuracy,0.0090,0.6533,+0.6443
+MST Attachment Agreement (UUAS on 20 sents),0.1543,0.0772,-0.0772

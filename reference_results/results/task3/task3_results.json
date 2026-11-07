@@ -1,0 +1,47 @@
+{
+  "task": "Task 3: BERT-Derived Static Vectors",
+  "selected_layer": 8,
+  "vocabulary_size": 6204,
+  "wordsim353": {
+    "spearman_correlation": 0.5154829137756728,
+    "p_value": 5.143701620363468e-09,
+    "total_pairs": 353,
+    "evaluated_count": 113,
+    "oov_count": 240,
+    "coverage": 0.32011331444759206
+  },
+  "google_analogy": {
+    "accuracy": 0.6532951289398281,
+    "correct": 912,
+    "evaluated": 1396,
+    "dropped": 18148,
+    "total_questions": 19544
+  },
+  "structural_check": {
+    "overall_attachment_agreement": 0.07717041800643087,
+    "macro_attachment_agreement": 0.20432855416881784,
+    "total_correct_edges": 24,
+    "total_gold_edges": 311,
+    "num_sentences": 20
+  },
+  "comparison": [
+    {
+      "Metric": "WordSim-353 (Spearman \u03c1)",
+      "Task 1: PPMI + SVD (Static)": "0.1559",
+      "Task 3: BERT-Derived Static": "0.5155",
+      "Delta (Task 3 - Task 1)": "+0.3596"
+    },
+    {
+      "Metric": "Google Analogy Accuracy",
+      "Task 1: PPMI + SVD (Static)": "0.0090",
+      "Task 3: BERT-Derived Static": "0.6533",
+      "Delta (Task 3 - Task 1)": "+0.6443"
+    },
+    {
+      "Metric": "MST Attachment Agreement (UUAS on 20 sents)",
+      "Task 1: PPMI + SVD (Static)": "0.1543",
+      "Task 3: BERT-Derived Static": "0.0772",
+      "Delta (Task 3 - Task 1)": "-0.0772"
+    }
+  ]
+}

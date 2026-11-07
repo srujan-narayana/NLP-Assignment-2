@@ -1,0 +1,336 @@
+{
+  "selected_layer": 8,
+  "selected_rank": 64,
+  "results_by_rank": {
+    "32": {
+      "1": {
+        "layer": 1,
+        "rank": 32,
+        "test_uuas": 0.43927156354769886,
+        "test_macro_uuas": 0.5160084074796828,
+        "test_depth_correlation": 0.6050223550963822,
+        "correct_edges": 5765,
+        "total_edges": 13124
+      },
+      "2": {
+        "layer": 2,
+        "rank": 32,
+        "test_uuas": 0.463806766229808,
+        "test_macro_uuas": 0.5446283343618623,
+        "test_depth_correlation": 0.5942118780310096,
+        "correct_edges": 6087,
+        "total_edges": 13124
+      },
+      "3": {
+        "layer": 3,
+        "rank": 32,
+        "test_uuas": 0.4917708015848827,
+        "test_macro_uuas": 0.5668063175670488,
+        "test_depth_correlation": 0.6240307069509702,
+        "correct_edges": 6454,
+        "total_edges": 13124
+      },
+      "4": {
+        "layer": 4,
+        "rank": 32,
+        "test_uuas": 0.5316976531545261,
+        "test_macro_uuas": 0.6014636029916316,
+        "test_depth_correlation": 0.6804754060462054,
+        "correct_edges": 6978,
+        "total_edges": 13124
+      },
+      "5": {
+        "layer": 5,
+        "rank": 32,
+        "test_uuas": 0.5570710149344712,
+        "test_macro_uuas": 0.6222988731320828,
+        "test_depth_correlation": 0.687766820697028,
+        "correct_edges": 7311,
+        "total_edges": 13124
+      },
+      "6": {
+        "layer": 6,
+        "rank": 32,
+        "test_uuas": 0.5628619323377019,
+        "test_macro_uuas": 0.6272664769606782,
+        "test_depth_correlation": 0.7154779180371678,
+        "correct_edges": 7387,
+        "total_edges": 13124
+      },
+      "7": {
+        "layer": 7,
+        "rank": 32,
+        "test_uuas": 0.5653002133495886,
+        "test_macro_uuas": 0.628748474422019,
+        "test_depth_correlation": 0.735174357350674,
+        "correct_edges": 7419,
+        "total_edges": 13124
+      },
+      "8": {
+        "layer": 8,
+        "rank": 32,
+        "test_uuas": 0.5666717464187747,
+        "test_macro_uuas": 0.6303401390693881,
+        "test_depth_correlation": 0.7626360722952602,
+        "correct_edges": 7437,
+        "total_edges": 13124
+      },
+      "9": {
+        "layer": 9,
+        "rank": 32,
+        "test_uuas": 0.5514324900944834,
+        "test_macro_uuas": 0.6186966869664241,
+        "test_depth_correlation": 0.7519255439419684,
+        "correct_edges": 7237,
+        "total_edges": 13124
+      },
+      "10": {
+        "layer": 10,
+        "rank": 32,
+        "test_uuas": 0.5050289545870161,
+        "test_macro_uuas": 0.5752201965520972,
+        "test_depth_correlation": 0.6920662128122302,
+        "correct_edges": 6628,
+        "total_edges": 13124
+      },
+      "11": {
+        "layer": 11,
+        "rank": 32,
+        "test_uuas": 0.46952148735141724,
+        "test_macro_uuas": 0.5552291797645238,
+        "test_depth_correlation": 0.6521109382601734,
+        "correct_edges": 6162,
+        "total_edges": 13124
+      },
+      "12": {
+        "layer": 12,
+        "rank": 32,
+        "test_uuas": 0.4752362084730265,
+        "test_macro_uuas": 0.5528770297975459,
+        "test_depth_correlation": 0.6726612468890887,
+        "correct_edges": 6237,
+        "total_edges": 13124
+      }
+    },
+    "64": {
+      "1": {
+        "layer": 1,
+        "rank": 64,
+        "test_uuas": 0.42387991466016456,
+        "test_macro_uuas": 0.5008223637392567,
+        "test_depth_correlation": 0.5861124509203771,
+        "correct_edges": 5563,
+        "total_edges": 13124
+      },
+      "2": {
+        "layer": 2,
+        "rank": 64,
+        "test_uuas": 0.4430051813471503,
+        "test_macro_uuas": 0.519016694733268,
+        "test_depth_correlation": 0.5987181546072654,
+        "correct_edges": 5814,
+        "total_edges": 13124
+      },
+      "3": {
+        "layer": 3,
+        "rank": 64,
+        "test_uuas": 0.48681804327948797,
+        "test_macro_uuas": 0.5579444428902504,
+        "test_depth_correlation": 0.6244269561234125,
+        "correct_edges": 6389,
+        "total_edges": 13124
+      },
+      "4": {
+        "layer": 4,
+        "rank": 64,
+        "test_uuas": 0.5312404754647974,
+        "test_macro_uuas": 0.5980776716924522,
+        "test_depth_correlation": 0.6372716073694852,
+        "correct_edges": 6972,
+        "total_edges": 13124
+      },
+      "5": {
+        "layer": 5,
+        "rank": 64,
+        "test_uuas": 0.5383267296555928,
+        "test_macro_uuas": 0.6008555633813673,
+        "test_depth_correlation": 0.6688505301099037,
+        "correct_edges": 7065,
+        "total_edges": 13124
+      },
+      "6": {
+        "layer": 6,
+        "rank": 64,
+        "test_uuas": 0.5472416946053033,
+        "test_macro_uuas": 0.610911185351705,
+        "test_depth_correlation": 0.7114324367581243,
+        "correct_edges": 7182,
+        "total_edges": 13124
+      },
+      "7": {
+        "layer": 7,
+        "rank": 64,
+        "test_uuas": 0.5584425480036574,
+        "test_macro_uuas": 0.6223483968216759,
+        "test_depth_correlation": 0.7111116608192214,
+        "correct_edges": 7329,
+        "total_edges": 13124
+      },
+      "8": {
+        "layer": 8,
+        "rank": 64,
+        "test_uuas": 0.5798537031392869,
+        "test_macro_uuas": 0.6449496314408762,
+        "test_depth_correlation": 0.7600036674414921,
+        "correct_edges": 7610,
+        "total_edges": 13124
+      },
+      "9": {
+        "layer": 9,
+        "rank": 64,
+        "test_uuas": 0.5300213349588541,
+        "test_macro_uuas": 0.5978868985730867,
+        "test_depth_correlation": 0.7266594835871865,
+        "correct_edges": 6956,
+        "total_edges": 13124
+      },
+      "10": {
+        "layer": 10,
+        "rank": 64,
+        "test_uuas": 0.49855227064919233,
+        "test_macro_uuas": 0.57269153323549,
+        "test_depth_correlation": 0.7005775489421245,
+        "correct_edges": 6543,
+        "total_edges": 13124
+      },
+      "11": {
+        "layer": 11,
+        "rank": 64,
+        "test_uuas": 0.46494971045412986,
+        "test_macro_uuas": 0.5435470856230473,
+        "test_depth_correlation": 0.6560370903903651,
+        "correct_edges": 6102,
+        "total_edges": 13124
+      },
+      "12": {
+        "layer": 12,
+        "rank": 64,
+        "test_uuas": 0.46944529106979577,
+        "test_macro_uuas": 0.5393187274066504,
+        "test_depth_correlation": 0.6772183492776969,
+        "correct_edges": 6161,
+        "total_edges": 13124
+      }
+    },
+    "128": {
+      "1": {
+        "layer": 1,
+        "rank": 128,
+        "test_uuas": 0.4086406583358732,
+        "test_macro_uuas": 0.47828730570350786,
+        "test_depth_correlation": 0.5698055516491582,
+        "correct_edges": 5363,
+        "total_edges": 13124
+      },
+      "2": {
+        "layer": 2,
+        "rank": 128,
+        "test_uuas": 0.43104236513258154,
+        "test_macro_uuas": 0.5113353437177773,
+        "test_depth_correlation": 0.5811688049991304,
+        "correct_edges": 5657,
+        "total_edges": 13124
+      },
+      "3": {
+        "layer": 3,
+        "rank": 128,
+        "test_uuas": 0.45664431575739106,
+        "test_macro_uuas": 0.5250862644386696,
+        "test_depth_correlation": 0.6246844395514447,
+        "correct_edges": 5993,
+        "total_edges": 13124
+      },
+      "4": {
+        "layer": 4,
+        "rank": 128,
+        "test_uuas": 0.5097531240475465,
+        "test_macro_uuas": 0.5665730037180359,
+        "test_depth_correlation": 0.6499147390939394,
+        "correct_edges": 6690,
+        "total_edges": 13124
+      },
+      "5": {
+        "layer": 5,
+        "rank": 128,
+        "test_uuas": 0.520344407192929,
+        "test_macro_uuas": 0.5863305819166064,
+        "test_depth_correlation": 0.6854325156925447,
+        "correct_edges": 6829,
+        "total_edges": 13124
+      },
+      "6": {
+        "layer": 6,
+        "rank": 128,
+        "test_uuas": 0.5515086863761048,
+        "test_macro_uuas": 0.6047097362972292,
+        "test_depth_correlation": 0.7156520065119961,
+        "correct_edges": 7238,
+        "total_edges": 13124
+      },
+      "7": {
+        "layer": 7,
+        "rank": 128,
+        "test_uuas": 0.5334501676318195,
+        "test_macro_uuas": 0.5890147513099262,
+        "test_depth_correlation": 0.7077982611748421,
+        "correct_edges": 7001,
+        "total_edges": 13124
+      },
+      "8": {
+        "layer": 8,
+        "rank": 128,
+        "test_uuas": 0.5520420603474551,
+        "test_macro_uuas": 0.6115315744051704,
+        "test_depth_correlation": 0.6990616990050359,
+        "correct_edges": 7245,
+        "total_edges": 13124
+      },
+      "9": {
+        "layer": 9,
+        "rank": 128,
+        "test_uuas": 0.5374123742761353,
+        "test_macro_uuas": 0.5985185390668484,
+        "test_depth_correlation": 0.7288071731734389,
+        "correct_edges": 7053,
+        "total_edges": 13124
+      },
+      "10": {
+        "layer": 10,
+        "rank": 128,
+        "test_uuas": 0.48895153916488876,
+        "test_macro_uuas": 0.559966065414414,
+        "test_depth_correlation": 0.687237115007311,
+        "correct_edges": 6417,
+        "total_edges": 13124
+      },
+      "11": {
+        "layer": 11,
+        "rank": 128,
+        "test_uuas": 0.45572996037793356,
+        "test_macro_uuas": 0.5377260294323523,
+        "test_depth_correlation": 0.6571991265928149,
+        "correct_edges": 5981,
+        "total_edges": 13124
+      },
+      "12": {
+        "layer": 12,
+        "rank": 128,
+        "test_uuas": 0.46319719597683634,
+        "test_macro_uuas": 0.5329310965584375,
+        "test_depth_correlation": 0.655464580493169,
+        "correct_edges": 6079,
+        "total_edges": 13124
+      }
+    }
+  }
+}
