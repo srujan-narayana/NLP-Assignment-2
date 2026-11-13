@@ -1,7 +1,7 @@
 # NLP CS60075 Assignment II - Project 5
 ## From Static to Contextual: Distributional Semantics and What's Inside BERT
 
-**Student**: Pilla Srujan Narayana (Roll No: `24CS10022`) , Pratik Kumar Verma (Roll No: `24CS10138`)  
+**Student**: Pilla Srujan Narayana (Roll No: `24CS10022`) , Verma Pratik (Roll No: `24CS10138`)  
 **Group**: Group 14  
 **Assigned Dataset**: Universal Dependencies English GUM (`universal_dependencies`, config `en_gum`)  
 **Shared Evaluation Benchmarks**: WordSim-353, Google Analogy Set (`questions-words.txt`)
